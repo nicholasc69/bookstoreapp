@@ -40,11 +40,7 @@
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin-spring-boot-starter</artifactId>
         </dependency>
-		<dependency>
-            <groupId>org.vaadin.spring.extensions</groupId>
-            <artifactId>vaadin-spring-ext-boot</artifactId>
-        </dependency>
-        <dependency>
+	<dependency>
             <groupId>org.vaadin.spring.addons</groupId>
             <artifactId>vaadin-spring-addon-eventbus</artifactId>
         </dependency>
